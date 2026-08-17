@@ -26,10 +26,12 @@ Alcuni dati possono mostrare N/D quando non sono disponibili sul sistema.
 
 ## Download e installazione
 
-**Versione disponibile:** M.G Avviatore 1.0.0  
+**Versione disponibile:** M.G Avviatore 1.0.0
+
 **Compatibilità:** Windows 10 e Windows 11, 64 bit.
 
-**[Scarica la Release ufficiale 1.0.0](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v1.0.0)**  
+**[Scarica la Release ufficiale 1.0.0](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v1.0.0)**
+
 **[Download diretto dell'installer](https://github.com/gregoriomangano/mg-avviatore/releases/download/v1.0.0/MG-Avviatore-Setup-1.0.0.exe)**
 
 1. Scarica l'installer dalla Release ufficiale.
