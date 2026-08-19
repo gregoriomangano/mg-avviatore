@@ -1,1 +1,1 @@
-f8ed552ffa9ae571937e0038ecffebbc6519a279457f2dd620da3b319aede984 *MG-Avviatore-Setup-2.0.1.exe
+ce1a66f5bb3a265350ab995732370dec54de1666b0a6234a0821d43e333455c2 *MG-Avviatore-Setup-2.0.2.exe

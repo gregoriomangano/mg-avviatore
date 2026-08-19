@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.2
+
+- Corretto un problema dell'installer che, in alcune configurazioni, poteva riutilizzare una vecchia cartella di installazione.
+- Gli aggiornamenti ora utilizzano sempre la cartella ufficiale di M.G Avviatore.
+- Launcher e preferenze dell'utente vengono mantenuti.
+
 ## 2.0.1
 
 - Corretto il comportamento del widget sul desktop.
