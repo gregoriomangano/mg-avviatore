@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.1.1
+
+- Corretto il ripristino del widget quando un monitor non e piu disponibile.
+- Migliorato l'avvio con Windows evitando la comparsa temporanea nella barra delle applicazioni.
+- Corretti automaticamente vecchi percorsi di avvio e collegamenti Start Menu.
+- Ulteriori miglioramenti di affidabilita.
+
 ## 2.1.0
 
 - Nuovo monitor rete con download, upload e ping.
