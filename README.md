@@ -1,4 +1,4 @@
-# M.G Avviatore 2.1.1
+# M.G Avviatore 2.1.2
 
 M.G Avviatore e un widget e launcher compatto per Windows: rende rapidamente accessibili programmi e collegamenti, con le informazioni essenziali del PC sempre a vista.
 
@@ -22,11 +22,11 @@ Alcuni dati possono mostrare N/D quando non sono disponibili sul sistema.
 
 ## Download e installazione
 
-**Versione disponibile:** M.G Avviatore 2.1.1
+**Versione disponibile:** M.G Avviatore 2.1.2
 **Compatibilita:** Windows 10 e Windows 11, 64 bit.
 
-- [Release ufficiale 2.1.1](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v2.1.1)
-- [Download diretto: MG-Avviatore-Setup-2.1.1.exe](https://github.com/gregoriomangano/mg-avviatore/releases/download/v2.1.1/MG-Avviatore-Setup-2.1.1.exe)
+- [Release ufficiale 2.1.2](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v2.1.2)
+- [Download diretto: MG-Avviatore-Setup-2.1.2.exe](https://github.com/gregoriomangano/mg-avviatore/releases/download/v2.1.2/MG-Avviatore-Setup-2.1.2.exe)
 
 Durante l'aggiornamento dalla versione precedente vengono conservati launcher, temi, bordo, posizione, dimensione e preferenze utente.
 
@@ -44,6 +44,12 @@ Durante l'aggiornamento dalla versione precedente vengono conservati launcher, t
 - Migliorato l'avvio con Windows evitando la comparsa temporanea nella barra delle applicazioni.
 - Corretti automaticamente vecchi percorsi di avvio e collegamenti Start Menu.
 - Ulteriori miglioramenti di affidabilita.
+
+## Novita 2.1.2
+
+- Ripristinate immagini e asset della pagina "Chi sono".
+- Corretta la leggibilita della finestra "Aggiungi launcher".
+- Migliorata l'inclusione degli asset nell'installazione.
 
 ## Novita 2.0.2
 

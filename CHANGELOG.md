@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.2
+
+- Ripristinate immagini e asset della pagina "Chi sono".
+- Corretta la leggibilita della finestra "Aggiungi launcher".
+- Migliorata l'inclusione degli asset nell'installazione.
+
 ## 2.1.1
 
 - Corretto il ripristino del widget quando un monitor non e piu disponibile.
