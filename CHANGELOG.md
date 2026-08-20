@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.0
+
+- Nuovo monitor rete con download, upload e ping.
+- Rilevamento di Windows 10 e Windows 11 migliorato.
+- Nuova utilita di spegnimento automatico.
+- Nuova pagina "Chi sono".
+- Migliorato il comportamento del widget.
+
 ## 2.0.2
 
 - Corretto un problema dell'installer che, in alcune configurazioni, poteva riutilizzare una vecchia cartella di installazione.

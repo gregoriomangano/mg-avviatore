@@ -1,4 +1,4 @@
-# M.G Avviatore 2.0.2
+# M.G Avviatore 2.1.0
 
 M.G Avviatore e un widget e launcher compatto per Windows: rende rapidamente accessibili programmi e collegamenti, con le informazioni essenziali del PC sempre a vista.
 
@@ -8,24 +8,35 @@ M.G Avviatore e un widget e launcher compatto per Windows: rende rapidamente acc
 
 - Nuovo layout grafico moderno, compatto e leggibile.
 - Monitor CPU, RAM e GPU.
+- Monitor rete con download, upload e ping.
 - Informazioni su Sistema Operativo, Scheda Madre, Archiviazione e Risoluzione.
 - Launcher ridisegnati a griglia per programmi, file, cartelle, siti e collegamenti.
 - Temi e bordo personalizzabile.
 - Integrazione con Codex e Claude Code quando disponibili.
 - Avvia con Windows.
+- Spegnimento automatico programmabile.
+- Pagina "Chi sono".
 - Controllo aggiornamenti integrato tramite GitHub Releases.
 
 Alcuni dati possono mostrare N/D quando non sono disponibili sul sistema.
 
 ## Download e installazione
 
-**Versione disponibile:** M.G Avviatore 2.0.2
+**Versione disponibile:** M.G Avviatore 2.1.0
 **Compatibilita:** Windows 10 e Windows 11, 64 bit.
 
-- [Release ufficiale 2.0.2](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v2.0.2)
-- [Download diretto: MG-Avviatore-Setup-2.0.2.exe](https://github.com/gregoriomangano/mg-avviatore/releases/download/v2.0.2/MG-Avviatore-Setup-2.0.2.exe)
+- [Release ufficiale 2.1.0](https://github.com/gregoriomangano/mg-avviatore/releases/tag/v2.1.0)
+- [Download diretto: MG-Avviatore-Setup-2.1.0.exe](https://github.com/gregoriomangano/mg-avviatore/releases/download/v2.1.0/MG-Avviatore-Setup-2.1.0.exe)
 
 Durante l'aggiornamento dalla versione precedente vengono conservati launcher, temi, bordo, posizione, dimensione e preferenze utente.
+
+## Novita 2.1.0
+
+- Nuovo monitor rete con download, upload e ping.
+- Rilevamento di Windows 10 e Windows 11 migliorato.
+- Nuova utilita di spegnimento automatico.
+- Nuova pagina "Chi sono".
+- Ulteriori miglioramenti al comportamento del widget.
 
 ## Novita 2.0.2
 
